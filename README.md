@@ -1,4 +1,4 @@
 # gethub-demo
-this is first
+this is first get hub
 <br>
-author-shruti guleriA
+author-shruti guleria
